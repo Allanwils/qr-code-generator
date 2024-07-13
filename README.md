@@ -1,8 +1,11 @@
-# React + Vite
+# qr-code-generator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a very brief and basic application that is used to generate qr codes .
 
-Currently, two official plugins are available:
+A user inputs a text and onclicking the button, the text is turned into a qr code
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application is created using react and javaScript 
+
+To view this application, follow this link:
+
+https://qr-code-production.netlify.app
